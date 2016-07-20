@@ -1,0 +1,25 @@
+
+This is a simple chat application, which just transmits messages between clients. The only special node.js module used is socket.io.
+
+How to run:
+
+1) install node.js
+2) open a terminal,goto project direcory and type  " npm install socket.io " ,  socket.io  allows us to create a socket connection between the server and clients and call events and send data back and forth without any trouble.
+3)Open a terminal, go to project directory and type  node server.js
+4)open two browsers and visit 127.0.0.1:4000
+
+Start chatting by entering your name and message
+
+
+Tested on:
+		Browsers-
+			1) Mozilla firefox
+			2) Chromium Web browser
+
+		Operating System-
+			
+			1) Ubuntu
+
+Observations:
+		Working correctly,no issues. chat history is showing in each browser(client) connected to server. User can chat others with or 			without entering name. Entering name is only for understanding who sends the message. The name entered once can be changed while
+		chatting.
