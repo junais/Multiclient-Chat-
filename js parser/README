@@ -1,0 +1,9 @@
+student.xml file is conating record for 20 students. The student data contain Student name, Roll number, Age and Gender.
+open student.html in any browser, the student data will be shown in tabular form.
+
+Tested on:
+		Browser- mozilla firefox
+		Operating System - Windows 8 
+
+Observations:
+		The student data including Student name, Roll number, Age and Gender are shown in a tabluar form in browser.
